@@ -1,3 +1,6 @@
+% Stella Wilcox
+% Vahe Caliskan
+% University of Illinois Chicago
 % current division with source Is and series resistances R1, R2
 % Also works if Is is a phasor and R1, R2 are impedances Z1, Z2
 disp('Current Division')   % Display script information
