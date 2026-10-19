@@ -1,3 +1,6 @@
+% Stella Wilcox
+% Vahe Caliskan
+% University of Illinois Chicago
 % Voltage division with source Vs and series resistances R1, R2
 % Also works if Vs is a phasor and R1, R2 are impedances Z1, Z2
 disp('Voltage Division')   % Display script information
